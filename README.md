@@ -5,9 +5,9 @@ This is a small CRUD, developed in React and using Firebase Firestore for data s
 The objective of this project was to learn how to use Firebase Firestore in an application. And also organize the code, with the creation of service layers.
  
 ## Functionalities
-*Create student
-*List student
-*Edit student
+* Create student
+* List student
+* Edit student
 * Delete student
  
 ## Installation
@@ -24,9 +24,9 @@ or
 $ npm install
  
 ## Tools and technologies used
-** Bootstrap
-** React
-** Firebase Firestore
+* Bootstrap
+* React
+* Firebase Firestore
 
 ## Running application
 $ npm start
