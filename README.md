@@ -14,6 +14,7 @@ The objective of this project was to learn how to use Firebase Firestore in an a
  
 ## Cloning the Repository
 $ git clone https://github.com/eltoncelestino/react-firebase-firestore.git
+
 $ cd react-firebase-firestore
  
 ## Installing dependencies
